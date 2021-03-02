@@ -27,6 +27,20 @@ Joivre Charles
 - Here is a description of tests that were completed on this project before release.
 - This file was tested through the terminal with the `node` command.
 
+
+1. Main Page
+![Dashboard](public/assets/images/mainPage.png)
+
+2. Workout Note
+![Workout](public/assets/images/workoutSaved.png)
+
+3. Groceries Draft Page
+![GroceriesDraft](public/assets/images/groceriesDraft.png)
+
+4. Groceries Saved
+![Dashboard](public/assets/images/groceriesSaved.png)
+
+
 ## License Used in this project
 - MIT
 
